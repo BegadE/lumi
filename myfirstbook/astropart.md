@@ -44,7 +44,6 @@ Theoretical astroparticle physics is a branch of high-energy astrophysics where 
 
 ## Assignments
 
-
 ## Exams
 
 ## Project
