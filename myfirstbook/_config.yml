@@ -3,7 +3,7 @@
 
 title: Pepo
 author: The KU Physics Community
-logo: logo.png
+logo: logo.gif
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -39,3 +39,7 @@ html:
 sphinx:
   config:
     html_theme: "shibuya"
+    html_static_path:
+      - _static
+    html_css_files:
+      - custom.css

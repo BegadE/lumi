@@ -7,6 +7,9 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: electro
+- file: comp
 - file: astropart
+- file: electro
+- file: statmech
 - file: quantum
+- file: math
