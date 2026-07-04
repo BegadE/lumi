@@ -10,7 +10,7 @@ Theoretical astroparticle physics is a branch of high-energy astrophysics where 
 
 | Date | Topic | Slides | Additional Reading |
 |------|--------|--------|--------------------|
-| Mon, Aug 25, 2025 | Introduction | [slides](resources/astro/Lectures/Introduction.pdf) | Slides 1-6|
+| Mon, Aug 25, 2025 | Introduction | [slides](resources/astro/Lectures/Introduction.pdf){.external target="_blank"} | Slides 1-6|
 | Wed, Aug 27, 2025 | Astrophysical Objects | [slides](resources/astro/Lectures/lecture1_Astrophysical_Objects.pdf)  | Slides 1-27|
 | Mon, Sep 1, 2025 | Galactic Coordinate System & Multimessengers| [slides](resources/astro/Lectures/lecture2_Messengers.pdf) | Slides 1-28|
 | Wed, Sep 3, 2025 | Proton Interactions | [slides](resources/astro/Lectures/lecture3_Interactions_Nuclei.pdf)  | Slides 1-25|
