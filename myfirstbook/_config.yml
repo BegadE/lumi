@@ -43,5 +43,4 @@ sphinx:
       - _static
     html_css_files:
       - custom.css
-    html_extra_path:
-      - resources
+      
