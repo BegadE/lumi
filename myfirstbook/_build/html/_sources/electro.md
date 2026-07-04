@@ -1,11 +1,13 @@
-# Electromagnetism (P717) 
+# Electromagnetism (P715) 
 The course provides an overview of classical electrodynamic theory, with an emphasis on time-dependent electric and magnetic fields. The course also provides deep understanding of wave function and Green’s functions, wave propagation in vacuum and in different media, and wave reflection and transmission. Optical Fibers and Waveguide structures, resonance cavity modes, energy flow in waveguides are covered. Radiation systems, multipole radiation and multipole expansion of electromagnetic field are explained. Dynamics of relativistic particles and radiation from moving charges are discussed. NOTE: This course is a pre-requisite to producing a dissertation in Physics
-
-
 
 ## Prerequisites
 
+
 ## Books
+- *Classical Electrodynamics* — John David Jackson
+- *Introduction to Electrodynamics* — David J. Griffiths
+- *Modern Electrodynamics* — Andrew Zangwill
 
 
 ## Schedule

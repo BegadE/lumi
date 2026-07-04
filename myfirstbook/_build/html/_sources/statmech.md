@@ -1,4 +1,4 @@
-# P716 - Statistical Mechanics
+# Statistical Mechanics (P716)
 
 ## Book
 - *Statistical Mechanics* — R. K. Pathria and Paul D. Beale
