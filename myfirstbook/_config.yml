@@ -43,7 +43,3 @@ sphinx:
       - _static
     html_css_files:
       - custom.css
-
-parse:
-  myst_enable_extensions:
-    - attrs_inline
