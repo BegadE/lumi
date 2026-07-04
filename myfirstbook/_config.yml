@@ -43,3 +43,5 @@ sphinx:
       - _static
     html_css_files:
       - custom.css
+    html_js_files:
+      - open-files-new-tab.js
