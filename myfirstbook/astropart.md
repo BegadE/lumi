@@ -22,7 +22,7 @@ Theoretical astroparticle physics is a branch of high-energy astrophysics where 
 | Wed, Sep 24, 2025 | **Conference Break** |  |  |
 | Mon, Sep 29, 2025 | Proton-Proton Interactions <br> **A2 Released** | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf) | Slides 1-24 |
 | Wed, Oct 1, 2025 | Proton-Photon Interactions | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf) | Slides 25-42 |
-| Mon, Oct 6, 2025 | Electron/Positron Annihilation, Bremsstrahlung & Inverse Compton | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf) | Slides 43-61 |
+| Mon, Oct 6, 2025 | Electron/Positron Annihilation, <br> Bremsstrahlung & Inverse Compton | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf) | Slides 43-61 |
 | Wed, Oct 8, 2025 | Synchrotron Radiation | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf)  | Slides 62-83 |
 | Mon, Oct 13, 2025 | Cosmic Ray Composition & Spectrum | [slides](resources/astro/Lectures/lecture8_Cosmic-ray_Propagation_Nuclei.pdf) | Slides 1-20 |
 | Wed, Oct 15, 2025 | **Midterm Exam** |  |  |
