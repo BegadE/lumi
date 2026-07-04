@@ -39,7 +39,7 @@ jobs:
         run: npm install -g jupyter-book
       - name: Build HTML Assets
         run: |
-          myst build --html
+          jupyter book build --html .
           ls -la
           ls -la _build
           ls -la _build/html
