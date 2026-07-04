@@ -1,4 +1,4 @@
-# Theoretical Astroparticle Physics (P708)
+# P708 - Theoretical Astroparticle Physics
 Theoretical astroparticle physics is a branch of high-energy astrophysics where high-energy cosmic messengers such as cosmic rays, gamma rays and neutrinos are used to probe the Universe. The course will discuss the mechanisms that can produce high-energy particles in extreme environments such as supernova remnants inside our Galaxy or extra-galactic objects like active galactic nuclei and gamma-ray bursts. It will discuss how high-energy particles interact with matter and magnetic/radiation fields producing non-thermal radiation from radio frequency to high-energy gamma rays. It will describe how high-energy particles escape from the sources, and propagate through the Galactic and inter-galactic space. It will also discuss how combining information from the different cosmic messengers improves our understanding of the Universe. The course will also include a project work where students can apply their knowledge to current problems in theoretical astroparticle physics. **Syllabus Supplement**
 
 ## Books

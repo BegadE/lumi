@@ -1,1 +1,1 @@
-# Quantum Mechanics (P717)
+# P717 - Quantum Mechanics

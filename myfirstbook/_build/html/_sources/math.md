@@ -1,4 +1,4 @@
-# Mathematical Physics (P721)
+# P721 - Mathematical Physics
 
 ## Book
 - *Mathematical Methods for Physicists: A Comprehensive Guide* — George B. Arfken, Hans J. Weber, and Frank E. Harris
