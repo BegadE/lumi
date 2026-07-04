@@ -10,15 +10,15 @@ Theoretical astroparticle physics is a branch of high-energy astrophysics where 
 
 | Date | Topic | Slides | Additional Reading |
 |------|--------|--------|--------------------|
-| Mon, Aug 25, 2025 | Introduction | [slides](resources/astro/Lectures/Introduction.pdf) | |
-| Wed, Aug 27, 2025 | Astrophysical Objects | [slides](resources/astro/Lectures/lecture1_Astrophysical_Objects.pdf)  | |
-| Mon, Sep 1, 2025 | Galactic Coordinate System & Multimessengers| [slides](resources/astro/Lectures/lecture2_Messengers.pdf) | |
-| Wed, Sep 3, 2025 | Proton Interactions | [slides](resources/astro/Lectures/lecture3_Interactions_Nuclei.pdf)  |  |
-| Mon, Sep 8, 2025 | Electron/Positron Interactions <br> **A1 Released** | [slides](resources/astro/Lectures/lecture4_Interactions_Electrons.pdf)  |  |
+| Mon, Aug 25, 2025 | Introduction | [slides](resources/astro/Lectures/Introduction.pdf) | Slides 1-6|
+| Wed, Aug 27, 2025 | Astrophysical Objects | [slides](resources/astro/Lectures/lecture1_Astrophysical_Objects.pdf)  | Slides 1-27|
+| Mon, Sep 1, 2025 | Galactic Coordinate System & Multimessengers| [slides](resources/astro/Lectures/lecture2_Messengers.pdf) | Slides 1-28|
+| Wed, Sep 3, 2025 | Proton Interactions | [slides](resources/astro/Lectures/lecture3_Interactions_Nuclei.pdf)  | Slides 1-25|
+| Mon, Sep 8, 2025 | Electron/Positron Interactions <br> **A1 Released** | [slides](resources/astro/Lectures/lecture4_Interactions_Electrons.pdf)  | Slides 1-19|
 | Wed, Sep 10, 2025 | Fermi Acceleration | [slides](resources/astro/Lectures/lecture5_acceleration.pdf) | Slides 1-18 |
 | Mon, Sep 15, 2025 | Dynamics of Charged Particles in Magnetic Field | [slides](resources/astro/Lectures/lecture5_acceleration.pdf) | Slides 19-29 |
-| Wed, Sep 17, 2025 | Shock waves | [slides](resources/astro/Lectures/lecture5_acceleration.pdf) | Slide 30-48 |
-| Mon, Sep 22, 2025 | Particle Acceleration Evidence | [slides](resources/astro/Lectures/lecture5_acceleration.pdf) |  |
+| Wed, Sep 17, 2025 | Shock waves | [slides](resources/astro/Lectures/lecture5_acceleration.pdf) | Slides 30-37 |
+| Mon, Sep 22, 2025 | Particle Acceleration Evidence | [slides](resources/astro/Lectures/lecture5_acceleration.pdf) | Slides 38-48 |
 | Wed, Sep 24, 2025 | **Conference Break** |  |  |
 | Mon, Sep 29, 2025 | Proton-Proton Interactions <br> **A2 Released** | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf) | Slides 1-24 |
 | Wed, Oct 1, 2025 | Proton-Photon Interactions | [slides](resources/astro/Lectures/lecture7_High_Energy_Emissions.pdf) | Slides 25-42 |
@@ -43,10 +43,26 @@ Theoretical astroparticle physics is a branch of high-energy astrophysics where 
 | Wed, Dec 10, 2025 | **Final Exam** |   |  |
 
 ## Assignments
+There were 5 assignments.
+
+| Due Date | Topic | Assignment | Solution |
+|------|--------|--------|--------------------|
+| Fri, Sep 19, 2025| A1 - Energy Threshold of Particle Interactions|[A1](/resources/astro/Assignments/A1.pdf)|[S1](/resources/astro/Solutions/S1.pdf)|
+| Mon, Oct 6, 2025 | A2 - Particle Spectra                         |[A2](/resources/astro/Assignments/A2.pdf)|[S2](/resources/astro/Solutions/S2.pdf)|
+| Fri, Oct 31, 2025| A3 - Particle Interactions & Energy Losses    |[A3](/resources/astro/Assignments/A3.pdf)|[S3](/resources/astro/Solutions/S3.pdf)|
+| Fri, Nov 7, 2025 | A4 - Transport Equations                      |[A4](/resources/astro/Assignments/A4.pdf)|[S4](/resources/astro/Solutions/S4.pdf)|
+| Mon, Nov 24, 2025| A5 - Spectral Evolutions                      |[A5](/resources/astro/Assignments/A5.pdf)|[S5](/resources/astro/Solutions/S5.pdf)|
 
 ## Exams
+The course had a midterm and a final. 
 
 ## Project
+Our project required us to learn a topic in any area of physics but connect it to astroparticle physics. The purpose is explore new areas in your field or astroparticle physics and share it with your colleagues. Project deliverables included a report (~ 15 pages) and a presentation (~ 15 minutes). 
 
+### Project Deliverables
+
+[Project Specification](resources/astro/Project/Project_Specification.pdf) <br>
+Sample Project: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P708_Pres.pdf) <br>
+Sample Presentation: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P721_Report.pdf)
 
 
