@@ -43,5 +43,3 @@ sphinx:
       - _static
     html_css_files:
       - custom.css
-    html_js_files:
-      - pdf-open.js
