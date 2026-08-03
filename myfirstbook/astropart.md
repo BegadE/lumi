@@ -60,9 +60,10 @@ The course had a midterm and a final.
 Our project required us to learn a topic in any area of physics but connect it to astroparticle physics. The purpose is explore new areas in your field or astroparticle physics and share it with your colleagues. Project deliverables included a report (~ 15 pages) and a presentation (~ 15 minutes). 
 
 ### Project Deliverables
+My project involved exploring Neutrino Oscillations in the KM3NeT experiment.
 
-[Project Specification](resources/astro/Project/Exploring%20Neutrino%20Oscillations%20in%20KM3NeT.pptx) <br>
-Sample Project: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P708_Report.pdf) <br>
-Sample Presentation: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P708_Pres.pdf)
+Project Specification:[🫆](resources/astro/Project/Project_Specification.pdf) <br>
+Sample Project: [📔](resources/astro/Project/P708_Report.pdf) <br>
+Sample Presentation: [💻](resources/astro/Project/P708_Pres.pdf)
 
 
