@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Jupyter Book outputs
+_build/
+myfirstbook/_build/
+**/.jupyter_cache/
+
+# macOS
+.DS_Store
