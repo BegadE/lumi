@@ -61,8 +61,8 @@ Our project required us to learn a topic in any area of physics but connect it t
 
 ### Project Deliverables
 
-[Project Specification](resources/astro/Project/Project_Specification.pdf) <br>
+[Project Specification](resources/astro/Project/Exploring%20Neutrino%20Oscillations%20in%20KM3NeT.pptx) <br>
 Sample Project: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P708_Pres.pdf) <br>
-Sample Presentation: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P721_Report.pdf)
+Sample Presentation: [Neutrino Oscillations in KM3NeT](resources/astro/Project/P708_Report.pdf)
 
 
