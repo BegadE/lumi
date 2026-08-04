@@ -62,7 +62,7 @@ Our project required us to learn a topic in any area of physics but connect it t
 ### Project Deliverables
 My project involved exploring Neutrino Oscillations in the KM3NeT experiment.
 
-Project Specification:[🫆](resources/astro/Project/Project_Specification.pdf) <br>
+Project Specification: [🫆](resources/astro/Project/Project_Specification.pdf) <br>
 Sample Project: [📔](resources/astro/Project/P708_Report.pdf) <br>
 Sample Presentation: [💻](resources/astro/Project/P708_Pres.pdf)
 
