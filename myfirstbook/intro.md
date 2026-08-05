@@ -1,4 +1,4 @@
-# Welcome to Lumi!
+# Welcome to Lumi ⚡️📕!
 
 Lumi is a small repository of Physics courses that helps support aspiring junior physicists learn Physics! 
 
