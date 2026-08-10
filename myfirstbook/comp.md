@@ -1,4 +1,5 @@
-# P701 - Computational Physics
+# Computational Physics
+### PHYS 701
 
 ## Book
 - *Computational Physics* — Jos Thijssen
