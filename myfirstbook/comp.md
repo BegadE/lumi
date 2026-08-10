@@ -1,4 +1,4 @@
-# Computational Physics
+# Computational Physics 💻
 ### PHYS 701
 
 ## Book

@@ -8,8 +8,8 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: comp
-- file: astropart
 - file: electro
-- file: statmech
-- file: quantum
 - file: math
+- file: quantum
+- file: statmech
+- file: astropart

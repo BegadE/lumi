@@ -1,4 +1,5 @@
-# P717 - Quantum Mechanics
+# Quantum Mechanics ⚛
+### P717
 
 ## Books
 
