@@ -55,8 +55,7 @@ There are 7 Assignments.
 | Wed, Apr 22, 2026 | A7 - Special Functions <br> (Gamma, Delta, Legendre, Bessel)| Section 1.6: 1 <br> Section 12.1: 1, 7 <br> Section 13.1: 1, 6, 7, 10, 21 <br> Section 13.3: 1, 16 <br> Section 15.1: 2 <br> Section 15.4: 3| [S7](resources/math/Solutions/S7.pdf)|
 
 ## Exams
-
-2 Quizzes & a final
+We had 2 quizzes & a final.
 
 ## Project
 Our project required us to extend a topic learned in the course. The purpose is to extend our knowledge in a domain of our interest, to research applications on it and to present it to our colleagues. Project deliverables included a report (~ 10 pages) and a presentation (~ 10 minutes). 
