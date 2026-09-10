@@ -40,9 +40,21 @@
 | Mon, Apr 27, 2026 | Thermodynamics of Blackbody Radiation |  | Pathria 7.3 |
 
 ## Assignments
+We had 4 assignments.
+
+| Due Date | Topic | Assignment | Solution |
+|------|--------|--------|--------------------|
+| Fri, Feb 6, 2026 | A1 - Introduction to Statistical Mechanics   | Problems 1.1, 1.2, 1.3, 1.4 | [S1](resources/statmech/Solutions/S1.pdf)|
+| Fri, Mar 6, 2026 | A2 - Virial Theorem       | Problem 3.14 | [S2](resources/statmech/Solutions/S2.pdf)|
+| Fri, Apr 10, 2026 | A3 - Grand Canonical Ensemble           | Problems 4.11, 4.14-4.17| [S3](resources/statmech/Solutions/S3.pdf)|
+| Fri, May 8, 2026 | A4 - Quantum Statistical Mechanics   | Problems 5.7, 5.18, 6.10, 7.20| [S4](resources/statmech/Solutions/S4.pdf)|
+
+
 
 ## Exams
 
-2 Quizzes & a final
+We had an assignments, a quiz, a midterm and a final.
 
-## Project
+Quiz I: Problem 1.7, 2.7 in Pathria <br>
+Quiz II: [📄](resources/statmech/Assessment/Q2.pdf) <br>
+Midterm: [📄](resources/statmech/Assessment/midterm.pdf)

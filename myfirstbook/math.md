@@ -42,7 +42,7 @@
 
 
 ## Assignments
-There are 7 Assignments.
+We had 7 assignments.
 
 | Due Date | Topic | Assignment | Solution |
 |------|--------|--------|--------------------|
