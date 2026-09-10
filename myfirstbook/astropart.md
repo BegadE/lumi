@@ -56,7 +56,8 @@ There were 5 assignments.
 
 ## Exams
 The course had a midterm and a final. 
-Midterm: [📄](resources/astro/Assessment/midterm.pdf)
+
+Midterm: [📄](resources/astro/Assessment/midterm.pdf) <br>
 Final: [📄](resources/astro/Assessment/final.pdf)
 
 ## Project
