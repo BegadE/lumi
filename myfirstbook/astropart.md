@@ -57,6 +57,7 @@ There were 5 assignments.
 ## Exams
 The course had a midterm and a final. 
 Midterm: [📄](resources/astro/Assessment/midterm.pdf)
+Final: [📄](resources/astro/Assessment/midterm.pdf)
 
 ## Project
 Our project required us to learn a topic in any area of physics but connect it to astroparticle physics. The purpose is explore new areas in your field or astroparticle physics and share it with your colleagues. Project deliverables included a report (~ 15 pages) and a presentation (~ 15 minutes). 
