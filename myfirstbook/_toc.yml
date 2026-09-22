@@ -10,6 +10,10 @@ chapters:
 - file: comp
 - file: electro
 - file: math
+- file: mech
 - file: quantum
 - file: statmech
+- file: tensor
 - file: astropart
+
+
