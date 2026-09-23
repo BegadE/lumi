@@ -38,6 +38,7 @@
 | Wed, Apr 22, 2026 | Ideal Bose Systems in 3D |  | Pathria 7.1 |
 | Sun, Apr 26, 2026 | Bose-Einstein Condensation |  | Pathria 7.2 |
 | Mon, Apr 27, 2026 | Thermodynamics of Blackbody Radiation |  | Pathria 7.3 |
+| Mon, May 7, 2026 | **Final Exam**|  | |
 
 ## Assignments
 We had 4 assignments.
